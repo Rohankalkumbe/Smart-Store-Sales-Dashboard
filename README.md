@@ -52,7 +52,7 @@ It enables businesses to track KPIs, forecast sales, and make data-driven decisi
 ---
 
 ## 🤝 Connect with Me
-If you found this project insightful, feel free to ⭐ the repo and connect with me on [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/rohan-kalkumbe-460bb0271/)).
+If you found this project insightful, feel free to ⭐ the repo and connect with me on [LinkedIn](https://www.linkedin.com/in/rohan-kalkumbe-460bb0271/).
 
 ---
 
