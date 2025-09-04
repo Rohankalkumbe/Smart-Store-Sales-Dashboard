@@ -31,7 +31,7 @@ It enables businesses to track KPIs, forecast sales, and make data-driven decisi
 ## 📂 Files Included
 - `Smart_Store_Sales_Dashboard.pbix` – Power BI file with dashboard and data model  
 - `Smart_Store_Sales_Dashboard.pdf` – Exported PDF version of the dashboard  
-- `Data/Smart_Store_Sales_Data.xlsx` – (Optional) Sample dataset for practice  
+- `Smart_Store_Sales_Data.xlsx` – (Optional) Sample dataset for practice  
 
 ---
 
@@ -52,7 +52,7 @@ It enables businesses to track KPIs, forecast sales, and make data-driven decisi
 ---
 
 ## 🤝 Connect with Me
-If you found this project insightful, feel free to ⭐ the repo and connect with me on [LinkedIn](your-linkedin-url).
+If you found this project insightful, feel free to ⭐ the repo and connect with me on [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/rohan-kalkumbe-460bb0271/)).
 
 ---
 
